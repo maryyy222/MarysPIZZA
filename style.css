@@ -1,0 +1,97 @@
+#flex{
+    display: flex;
+}
+#tamanho{
+    background-image: url(img/Vintage\ Retro\ Pizza\ Food\ Badge\ Logo\ \(1\).png);
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: black;
+    display: flex;
+}
+*{margin: 0;}
+#margem{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.quemSomos{
+    color: white;
+    font-family:"Red Rose", serif;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 150px;
+    text-align: center;
+}
+#tirarSubli{
+    color: white;
+    text-decoration: none;
+}
+.cardapio{
+    color: white;
+    font-family:"Red Rose", serif;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 150px;
+    text-align: center;
+}
+.EntreEmContato{
+    color: white;
+    font-family:"Red Rose", serif;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 150px;
+    text-align: center;
+}
+.user{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+a{
+    text-decoration: none;
+}
+.minhaConta{
+    color: white;
+    font-family:"Red Rose", serif;
+    font-size: 20px;
+    margin-left:140px;
+    text-align: center;
+}
+.Carrinho{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.carrinho{
+    color: white;
+    font-family:"Red Rose", serif;
+    font-size: 20px;
+    margin-left: 95px;
+    text-align: center;
+}
+aside{
+    background-image: url(./img/photo-1513104890138-7c749659a591.avif);
+    filter: brightness(60%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 79.2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+.Welcome{
+    font-family: "Trykker", serif;
+    font-size: 60px;
+    color: rgba(255,255,255,2);
+    text-align: center;
+}
+.Marys{
+    font-family: "DM Serif Display", serif;
+    font-size: 80px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+}
